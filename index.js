@@ -43,3 +43,5 @@ function createIcon(classes) {
 }
 
 form.addEventListener("submit", OnSubmit);
+// git config --global user.name rahulrajmehra01
+// git config --global user.email rahulrajmehra06@gmail.com
